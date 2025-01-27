@@ -100,6 +100,11 @@ Notes:
 :bulb: Make sure "HUD Always On" is Enabled in the "Gameplay" settings.
 
 ---
+:question: _I can't run/sprint_
+
+:bulb: Lower your weapon, you can not run and aim/shoot in this game.
+
+---
 :question: _When physically turning and I get on a ladder the camera clips and/or character is the wrong side of the ladder_
 
 :bulb: I am aware of this, this profile/mod does not currently support FULL Roomscale i.e. Physical Turning.
