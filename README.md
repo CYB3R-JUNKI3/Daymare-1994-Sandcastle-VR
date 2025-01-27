@@ -92,6 +92,11 @@ Notes:
 
 
 ## Important Notes / FAQ's
+:question: _I can't walk more than 10 steps and my torch turns on_
+
+:bulb: Make sure "HUD Always On" is Enabled in the "Gameplay" settings.
+
+---
 :question: _When physically turning and I get on a ladder the camera clips and/or character is the wrong side of the ladder_
 
 :bulb: I am aware of this, this profile/mod does not currently support FULL Roomscale i.e. Physical Turning.
