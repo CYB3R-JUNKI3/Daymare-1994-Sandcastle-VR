@@ -7,6 +7,9 @@ https://github.com/praydog/UEVR
 
 All installation info is <a href="https://github.com/CYB3R-JUNKI3/Daymare-1994-Sandcastle-VR/releases" target="_blank">HERE in Releases section</a>.
 
+---
+
+Thank you AcknowledgedPawn for your valuable feedback and testing :pray: 
 
 ---
 
