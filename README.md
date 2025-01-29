@@ -44,6 +44,7 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
 ## Auto-Aim Gesture
 1. Lift your weapon above waist level
 2. Auto-aim will activate and allow you to shoot without pressing LT.
+   
 Notes:
 - Auto-aim will cancle if you are near a pickup/interactable.
 - Normal aim (LT) can still be used at any time.
@@ -54,8 +55,7 @@ Notes:
 ## Weapon Select Gesture
 1. Put your Right Hand over your Right Shoulder, as if to grab a weapon, to activate Weapon Select
 2. Once activated, you will see your HUD is attached to your head
-
-    While activated use your Left Thumb-Stick to select a weapon 
+3. While activated use your Left Thumb-Stick to select a weapon 
 ----
 
 
