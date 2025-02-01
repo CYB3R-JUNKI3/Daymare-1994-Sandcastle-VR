@@ -9,6 +9,8 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/Daymare-1994-S
 
 ---
 
+Credit to Markmon for help with a cursor for one of the puzzles :heart:
+
 Thank you AcknowledgedPawn for your valuable feedback and testing :pray: 
 
 ---
@@ -72,11 +74,11 @@ Notes:
 ## Other Features
 - All weapons + weapon mods attached
 - Aiming accuracy pretty good
-- Removed most recoil
+- Removed all recoil/camera shake
 - Weapon sway removed
 - Head-bobbing removed
 - Aiming walk speed increased (to match normal walking speed)
-- Movement orientation set to Left Controller (feel free to change)
+- Movement orientation set to HMD (feel free to change)
 - Free head/controller movement in main menu/pause menu/inventory/cut-scenes/Interactions
 - Fixed Weapons overlapping
 - Fixed ALL Weapon angles and positions
@@ -95,9 +97,9 @@ Notes:
 
 
 ## Important Notes / FAQ's
-:question: _I can't walk more than 10 steps and my torch turns on_
+:question: _I have disabled "HUD Always On" in the game settings, but I can still see my HUD_
 
-:bulb: Make sure "HUD Always On" is Enabled in the "Gameplay" settings.
+:bulb: This setting is needed and is forced on by the mod.
 
 ---
 :question: _I can't run/sprint_
@@ -105,11 +107,7 @@ Notes:
 :bulb: Lower your weapon, you can not run and aim/shoot in this game.
 
 ---
-:question: _When physically turning and I get on a ladder the camera clips and/or character is the wrong side of the ladder_
 
-:bulb: I am aware of this, this profile/mod does not currently support FULL Roomscale i.e. Physical Turning.
-
----
 
 
 
