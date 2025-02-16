@@ -1,0 +1,28 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Frostgrip",
+        "Properties",
+        "Spray",
+        "Properties",
+        "SprayCameraShake"
+    ],
+    "properties": [
+        {
+            "data": 0,
+            "name": "AnimPlayRate"
+        },
+        {
+            "data": 0,
+            "name": "AnimScale"
+        },
+        {
+            "data": 0,
+            "name": "OscillationDuration"
+        }
+    ],
+    "type": "properties"
+}

@@ -1,0 +1,27 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Frostgrip",
+        "Properties",
+        "Spray",
+        "Components",
+        "ParticleSystemComponent SprayParticle"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7144210338592529,
+            "x": 0.6997160911560059,
+            "y": 0.0,
+            "z": 0.0
+        }
+    },
+    "type": "motion_controller"
+}

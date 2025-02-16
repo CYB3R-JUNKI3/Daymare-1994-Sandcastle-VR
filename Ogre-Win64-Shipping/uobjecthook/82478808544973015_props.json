@@ -1,0 +1,22 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "CrosshairHUD",
+        "Properties",
+        "WBP_MP5Crosshair",
+        "Properties",
+        "Left",
+        "Properties",
+        "Brush"
+    ],
+    "properties": [
+        {
+            "data": 0,
+            "name": "DrawAs"
+        }
+    ],
+    "type": "properties"
+}

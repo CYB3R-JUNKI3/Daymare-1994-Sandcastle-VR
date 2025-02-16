@@ -1,0 +1,16 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "CurrentInteractableObj"
+    ],
+    "properties": [
+        {
+            "data": 1133903872,
+            "name": "InteractDistance"
+        }
+    ],
+    "type": "properties"
+}
