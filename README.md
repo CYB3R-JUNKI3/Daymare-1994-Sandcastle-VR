@@ -3,6 +3,33 @@
 ## Requires UEVR 1.05 (or Nightly)
 https://github.com/praydog/UEVR
 
+---
+
+
+# IMPORTANT
+## If you were using my old 6DOF profile you NEED to remove it first
+<details>
+
+<summary>How do I remove the old profile and mod? </summary>
+
+### How to Remove the Profile
+1)  Open UEVR app and click "Open Global Dir" 
+
+2)  An "Appdata" folder will open containing all of your UEVR Profiles 
+
+3)  Delete any folder named "Ogre-Win64-Shipping.zip" (this includes any that may be called "Ogre-Win64-Shipping(1)") 
+
+4)  Close the folder and Import the new Profile
+
+### How to Remove the Mod
+1)  Go to your "Daymare 1994 Sandcastle\Ogre\Content\Paks" folder
+
+2)  Delete "DMSCmod_P.pak"
+
+</details>
+
+---
+
 # Installation
 
 All installation info is <a href="https://github.com/CYB3R-JUNKI3/Daymare-1994-Sandcastle-VR/releases" target="_blank">HERE in Releases section</a>.
@@ -14,7 +41,6 @@ Credit to Markmon for help with a cursor for one of the puzzles :heart:
 Thank you AcknowledgedPawn for your valuable feedback and testing :pray: 
 
 ---
-
 
 # IMPORTANT
 ## The following UEVR settings are controlled by the Mod
